@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "672731b399ade19ac533401c"
+  },
+  "title": "Amapiano Unlimited",
+  "description": "Dive into the infectious beats of Amapiano with this vibrant playlist, featuring smooth piano melodies and deep house grooves. Perfect for any occasion, let the rhythm elevate your vibes and energize your spirit!",
+  "thumbnail": {
+    "id": "wofkq1eushanoe1piiag",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/image/upload/v1730621875/wofkq1eushanoe1piiag.webp"
+  },
+  "createdAt": {
+    "$date": "2024-11-03T08:17:55.990Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T08:17:55.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6727995b47ecc4cc3c02864a"
+  },
+  "title": "Hip Hop",
+  "description": "Experience the raw energy of hip-hop with this dynamic playlist, featuring hard-hitting beats, clever lyrics, and a blend of classic and contemporary tracks. Perfect for any vibe, let the rhythm move you and the flow inspire you!",
+  "thumbnail": {
+    "id": "oyyenx3szsmdmynuasny",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/image/upload/v1730648410/oyyenx3szsmdmynuasny.jpg"
+  },
+  "createdAt": {
+    "$date": "2024-11-03T15:40:11.636Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T15:40:11.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6727dc7c657b2c1a924880ad"
+  },
+  "title": "Sunday  Blues",
+  "description": "Playlist to be enjoyed on Sundar mornings with a cup of coffee.",
+  "thumbnail": {
+    "id": "jxev7xtuz51hftwzlmsv",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/image/upload/v1730665595/jxev7xtuz51hftwzlmsv.jpg"
+  },
+  "category": "",
+  "hashtags": [],
+  "createdAt": {
+    "$date": "2024-11-03T20:26:36.412Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T20:26:36.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6727df79657b2c1a924880d0"
+  },
+  "title": "Gqom Refresher",
+  "description": "2016 - 2018 Gqom Sounds",
+  "thumbnail": {
+    "id": "bcagwooba85vtxsk4nxc",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/image/upload/v1730666361/bcagwooba85vtxsk4nxc.jpg"
+  },
+  "category": "",
+  "hashtags": [],
+  "createdAt": {
+    "$date": "2024-11-03T20:39:21.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T20:39:21.594Z"
+  },
+  "__v": 0
+}]

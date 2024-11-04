@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6727345799ade19ac533403b"
+  },
+  "title": "Wishi Wishi",
+  "description": "Top Trending Amapiano Song",
+  "singer": "Kabza De Small , DJ Maphorisa , Vigro Deep feat Scots Mapuma & Young Stunna",
+  "audio": {
+    "id": "uebjqgp5gtuz4g66n6z0",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/video/upload/v1730622550/uebjqgp5gtuz4g66n6z0.mp3"
+  },
+  "album": "672731b399ade19ac533401c",
+  "createdAt": {
+    "$date": "2024-11-03T08:29:11.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T08:30:32.404Z"
+  },
+  "__v": 0,
+  "thumbnail": {
+    "id": "h67buifswxjverdc8vvl",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/image/upload/v1730622631/h67buifswxjverdc8vvl.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6727984f47ecc4cc3c02862b"
+  },
+  "title": "Kokotela",
+  "description": "A new Amapiano Hit Song",
+  "singer": "Mellow & Sleazy",
+  "audio": {
+    "id": "sahafvzmyfk20b950p4r",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/video/upload/v1730648141/sahafvzmyfk20b950p4r.mp3"
+  },
+  "album": "672731b399ade19ac533401c",
+  "createdAt": {
+    "$date": "2024-11-03T15:35:43.231Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T15:36:02.854Z"
+  },
+  "__v": 0,
+  "thumbnail": {
+    "id": "ajsudsnwwyuxlqnlasvn",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/image/upload/v1730648161/ajsudsnwwyuxlqnlasvn.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6727def0657b2c1a924880c5"
+  },
+  "title": "Sunday Blues",
+  "description": "Langa Mavuso's Stormy Sunday Blues",
+  "singer": "Langa Mavuso",
+  "audio": {
+    "id": "hxanbuup2kwjywsomlby",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/video/upload/v1730666223/hxanbuup2kwjywsomlby.mp3"
+  },
+  "album": "6727dc7c657b2c1a924880ad",
+  "createdAt": {
+    "$date": "2024-11-03T20:37:04.763Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T20:37:48.854Z"
+  },
+  "__v": 0,
+  "thumbnail": {
+    "id": "mbx6mfaj9t8bhw48ztzx",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/image/upload/v1730666268/mbx6mfaj9t8bhw48ztzx.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6727dfc1657b2c1a924880d5"
+  },
+  "title": "iPlan",
+  "description": "2023 Hit Sound by Dlala ",
+  "singer": "Dlala Thukzin",
+  "audio": {
+    "id": "cojavrwj3fb1kiizsymy",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/video/upload/v1730666432/cojavrwj3fb1kiizsymy.mp3"
+  },
+  "album": "6727df79657b2c1a924880d0",
+  "createdAt": {
+    "$date": "2024-11-03T20:40:33.377Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T20:41:28.236Z"
+  },
+  "__v": 0,
+  "thumbnail": {
+    "id": "uwaxxruvzxvcdbdmg3kr",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/image/upload/v1730666487/uwaxxruvzxvcdbdmg3kr.jpg"
+  }
+},
+{
+  "_id": {
+    "$oid": "6727e138657b2c1a924880ec"
+  },
+  "title": "Sohlala Sonke",
+  "description": "Top Tranding Hit ",
+  "singer": "Dlala Thukzin",
+  "audio": {
+    "id": "isnqwjvfrd8yydotzrlf",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/video/upload/v1730666807/isnqwjvfrd8yydotzrlf.mp3"
+  },
+  "album": "6727df79657b2c1a924880d0",
+  "createdAt": {
+    "$date": "2024-11-03T20:46:48.643Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T20:47:09.042Z"
+  },
+  "__v": 0,
+  "thumbnail": {
+    "id": "txnjnq6emw26rzaimxmb",
+    "url": "https://res.cloudinary.com/dkpqjxoi2/image/upload/v1730666828/txnjnq6emw26rzaimxmb.jpg"
+  }
+}]

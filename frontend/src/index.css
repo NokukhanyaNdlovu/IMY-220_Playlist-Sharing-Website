@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Poppins", sans-serif;
+  @apply bg-black;
+}
+
+.auth-input {
+  @apply w-full p-3 bg-gray-800 rounded-md border border-gray-700 focus:outline-none focus:border-gray-500;
+}
+
+.auth-btn {
+  @apply w-full bg-green-500 hover:bg-green-400 text-black font-semibold p-3 rounded-full;
+}
+
+*::-webkit-scrollbar {
+  height: 0.5rem;
+  width: 0.1rem;
+}
+
+*::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #2e2d2b;
+}
+.tab-item {
+  color: rgba(255, 255, 255, 0.5); 
+  font-size: 20px; 
+  font-weight: bold;
+  cursor: pointer;
+  position: relative;
+  padding-bottom: 4px; 
+}
+
+.tab-item.active {
+  color: white; 
+}
+
+.underline {
+  position: absolute;
+  bottom: -2px; 
+  left: 0;
+  height: 2px;
+  width: 100%;
+  background-color: #8e75d0; 
+  border-radius: 2px; 
+}
+
+@keyframes fadeInScale {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+}
+
+.fadeInScale {
+  animation: fadeInScale 10s ease-in-out infinite; 
+}
+
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.toggle-checkbox:checked + .toggle-label {
+  background-color: #4CAF50; /* Green background for toggle */
+}
+
+.toggle-label {
+  display: inline-block;
+  width: 40px;
+  height: 20px;
+  border-radius: 50px;
+  background-color: #ccc; /* Default background */
+  position: relative;
+  transition: background-color 0.3s;
+}
+
+.toggle-checkbox {
+  display: none;
+}
+
+.toggle-label:before {
+  content: '';
+  display: block;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: white;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  transition: transform 0.3s;
+}
+
+.toggle-checkbox:checked + .toggle-label:before {
+  transform: translateX(20px);
+}

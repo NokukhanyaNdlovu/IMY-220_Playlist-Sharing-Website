@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6727bbd1282de26227f6f2d3"
+  },
+  "title": "Chill Vibes",
+  "songs": [
+    {
+      "$oid": "6727984f47ecc4cc3c02862b"
+    },
+    {
+      "$oid": "6727345799ade19ac533403b"
+    }
+  ],
+  "user": {
+    "$oid": "60d21b4667d0d8992e610c80"
+  }
+},
+{
+  "_id": {
+    "$oid": "6727bbe5282de26227f6f643"
+  },
+  "title": "Party Hits",
+  "songs": [
+    {
+      "$oid": "6727345799ade19ac533403b"
+    }
+  ],
+  "user": {
+    "$oid": "6726a1b9b3b0072d90077ccb"
+  }
+},
+{
+  "_id": {
+    "$oid": "6727bbf3282de26227f6f85d"
+  },
+  "title": "Road Trip Tunes",
+  "songs": [
+    {
+      "$oid": "6727984f47ecc4cc3c02862b"
+    },
+    {
+      "$oid": "6727345799ade19ac533403b"
+    }
+  ],
+  "user": {
+    "$oid": "672792f947ecc4cc3c02856c"
+  }
+}]

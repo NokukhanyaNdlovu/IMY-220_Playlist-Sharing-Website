@@ -1,0 +1,174 @@
+[{
+  "_id": {
+    "$oid": "6726a1b9b3b0072d90077ccb"
+  },
+  "name": "Vanessa",
+  "email": "vanessam@gmail.com",
+  "password": "$2b$10$sYvrv8BSfAupEICBfjUfL.zRBR89YGPTzMsx0VGUkyGvWpKpdUnQO",
+  "role": "user",
+  "playlist": [],
+  "createdAt": {
+    "$date": "2024-11-02T22:03:37.201Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T18:18:36.489Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "6727304a99ade19ac533400b"
+  },
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$MZ6DgRn0GxQo2FbXLty6LeiuGZ9vq1KoZQwIZ61LdQSMvaqgoUcIy",
+  "role": "admin",
+  "playlist": [
+    "6727345799ade19ac533403b"
+  ],
+  "createdAt": {
+    "$date": "2024-11-03T08:11:54.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T14:08:33.378Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "672792f947ecc4cc3c02856c"
+  },
+  "name": "John",
+  "email": "john@gmail.com",
+  "password": "$2b$10$Eeb5IePIH1TBZmRqD78K7O4cMMe4JOkwCrXGrVITdmfB4OT4fTH8u",
+  "role": "user",
+  "playlist": [
+    "6727984f47ecc4cc3c02862b"
+  ],
+  "createdAt": {
+    "$date": "2024-11-03T15:12:57.934Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T18:20:13.386Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6727d2ca99a376bfade504d6"
+  },
+  "name": "Alice Smith",
+  "email": "alice.smith@example.com",
+  "password": "$2b$10$xkMI0gyS7AeTigEwzdVAleGI/EFg6PonMWP15d5vshCog1V4dE1Qm",
+  "role": "user",
+  "playlist": [],
+  "createdAt": {
+    "$date": "2024-11-03T19:45:14.047Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T19:45:14.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6727d2e999a376bfade504de"
+  },
+  "name": "Bob Johnson",
+  "email": "bob.johnson@example.com",
+  "password": "$2b$10$w7BdhKNg4NvkkEIJtdiK0OlC8ipLZS/HRm1pRybQDNhTdTbio2UBy",
+  "role": "user",
+  "playlist": [],
+  "createdAt": {
+    "$date": "2024-11-03T19:45:45.586Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T19:45:45.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6727d30999a376bfade504e6"
+  },
+  "name": "Carol Williams",
+  "email": "carol.williams@example.com",
+  "password": "$2b$10$pRDHBsioTELdr31VSCob6ewyZ1npUyJkuvBGESz/dn5yJalheoqJ2",
+  "role": "user",
+  "playlist": [],
+  "createdAt": {
+    "$date": "2024-11-03T19:46:17.545Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T19:46:17.545Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6727d33599a376bfade504ee"
+  },
+  "name": "David Brown",
+  "email": "david.brown@example.com",
+  "password": "$2b$10$cOAG48tX3ZpROyFueY7BBuLg4y03zr4iFXoi1XD1ocKAN7f1UxpgC",
+  "role": "user",
+  "playlist": [],
+  "createdAt": {
+    "$date": "2024-11-03T19:47:01.592Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T19:47:01.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6727d34f99a376bfade504f6"
+  },
+  "name": "Eve Davis",
+  "email": "eve.davis@example.com",
+  "password": "$2b$10$Xq4yTDWVF8GTq4cDyGADtuOKcRDHQ6mnggSq73B93TlrZlDQuO3pS",
+  "role": "user",
+  "playlist": [],
+  "createdAt": {
+    "$date": "2024-11-03T19:47:27.830Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T19:47:27.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6727d37d99a376bfade504fe"
+  },
+  "name": "Frank Miller",
+  "email": "frank.miller@example.com",
+  "password": "$2b$10$noJqunfA9Blhud4rO3NWmuelj4NrUXX/Hv4E3szbfEk5zkX4YZL8u",
+  "role": "user",
+  "playlist": [],
+  "createdAt": {
+    "$date": "2024-11-03T19:48:13.211Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T19:48:13.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6727d3ae99a376bfade50506"
+  },
+  "name": "Grace Wilson",
+  "email": "grace.wilson@example.com",
+  "password": "$2b$10$0I5kk83Lb06nlAeVR0c6N.jet/VDTJJ.ga.WzVR3NHQi/Q27VXkUK",
+  "role": "user",
+  "playlist": [],
+  "createdAt": {
+    "$date": "2024-11-03T19:49:02.078Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-03T19:49:02.078Z"
+  },
+  "__v": 0
+}]
